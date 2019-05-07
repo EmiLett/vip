@@ -56,11 +56,11 @@ class IState extends State<Intro> {
                   //image
                   new Padding(padding: EdgeInsets.all(15.0)),
                   new Text(
-                      "Salut futur diplomé en commerce! Comme tu le sais, tu as bientôt tes examens… et je le sais, tu es pas encore prêt! Ce jeu te permettra de réviser les notions que tu as besoin. Réussis le plus de quizz et des quêtes pour obtenir le meilleur score!"),
+                      "Salut futur(e) diplomé(e) en commerce ! Comme tu le sais, tu as bientôt tes examens… et je le sais, tu n'es pas encore prêt! Ce jeu te permettra de réviser les notions dont tu as besoin. Réussis le plus de défis pour obtenir le meilleur score !"),
                   new Padding(padding: EdgeInsets.all(15.0)),
-                  new Text("Regarde la vidéo-tuto en appuyant sur le bouton play au fond à droite"),
+                  new Text("Regarde la vidéo-tuto en appuyant sur le bouton play au fond à droite. "),
                   new Padding(padding: EdgeInsets.all(15.0)),
-                  new Text("Les boutons pour changer de page se trouvent toujours en fond de page sauf pour les classements  et les pages du Reviz'Dex où le bouton se trouve en haut à gauche"),
+                  new Text("Les boutons pour changer de page se trouvent toujours en fond de page sauf pour les classements et les pages du Reviz'Dex où le bouton se trouve en haut à gauche"),
                   new Padding(padding: EdgeInsets.all(15.0)),
 
                   new Padding(padding: EdgeInsets.all(.0)),
