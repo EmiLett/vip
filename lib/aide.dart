@@ -67,7 +67,7 @@ class AideState extends State<Aide> {
               new Padding(padding: EdgeInsets.all(8.0)),
 
               new Text(
-                "Lorsque tu scannes un code QR jaune, tu te retrouves dans un affrontement avec un expert du commerce. Tu dois répondre correctement à une majorité de questions qu’il te pose pour gagner l’affrontement. Si tu gagnes, tu peux recruter l’expert dans ton équipe.Réfléchis bien ! Tu n’as qu’une chance pour recruter un expert !Tu gagnes un point de classement par bonne réponse.",
+                "Lorsque tu scannes un code QR jaune, tu te retrouves dans un affrontement avec un expert du commerce. Tu dois répondre correctement à une majorité de questions qu’il te pose pour gagner l’affrontement. Si tu gagnes, tu peux recruter l’expert dans ton équipe. Réfléchis bien ! Tu n’as qu’une chance pour recruter un expert ! Tu gagnes un point de classement par bonne réponse.",
                 style: new TextStyle(fontSize: 16.0),
               ),
 
@@ -80,7 +80,7 @@ class AideState extends State<Aide> {
               new Padding(padding: EdgeInsets.all(8.0)),
 
               new Text(
-                "Lorsque tu scannes un code QR bleu, tu te retrouves dans une salle de classe dans laquelle tu affronteras un formateur. Tu dois poser des questions au formateur. Celui-ci te réponds, mais il peut décider de te piéger. Tu dois alors juger si sa réponse est vraie ou fausse. Tu gagnes un certain nombre de points en fonction de ton nombre de bonnes réponses.",
+                "Lorsque tu scannes un code QR bleu, tu te retrouves dans une salle de classe dans laquelle tu affronteras un formateur. Tu dois poser des questions au formateur. Celui-ci te répond, mais il peut décider de te piéger. Tu dois alors juger si sa réponse est vraie ou fausse. Tu gagnes un certain nombre de points en fonction de ton nombre de bonnes réponses.",
                 style: new TextStyle(fontSize: 16.0),
               ),
               new Padding(padding: EdgeInsets.all(4.0)),
@@ -107,7 +107,7 @@ class AideState extends State<Aide> {
               new Padding(padding: EdgeInsets.all(8.0)),
               new Text(
                 "Lorsque toi et un de tes amis scannez un code QR rouge, vous vous retrouvez dans une arène. Vous pouvez vous y affronter dans un duel. Les duels ont un déroulement assez particulier : "
-                    "premièrement, toi et ton adversaire devez chacun choisir un domaine de compétences commerciales (Marketing, Administration, Ventes, Achats, Ressources humaines ou Comptabilité). Un troisième domaine est choisi aléatoirement. Ces domaines de compétences commerciales définissent le thème des 5 questions qui te seront posées."
+                    "Premièrement, toi et ton adversaire devez chacun choisir un domaine de compétences commerciales (Marketing, Administration, Ventes, Achats, Ressources humaines ou Comptabilité). Un troisième domaine est choisi aléatoirement. Ces domaines de compétences commerciales définissent le thème des 5 questions qui te seront posées."
                     "Après avoir pris connaissances des thèmes de question, toi et ton adversaire devez chacun choisir un seul expert de votre équipe. Il est important de bien le choisir car il ne t’aidera que pour les questions de son domaine d’expertise."
                     "Finalement, le duel peut commencer. 5 questions te seront posées, à toi ainsi qu’à ton adversaire."
                     "Celui qui a le plus de bonnes réponses gagne le duel, ainsi que 5 points de classement.",
@@ -144,7 +144,7 @@ class AideState extends State<Aide> {
               new Padding(padding: EdgeInsets.all(8.0)),
 
               new Text(
-                "Le Réviz’dex contient un historique des questions auxquelles tu as répondu en fonction des domaines commerciaux. Il te permet également de consulter tous les duels auxquels tu as participé.o",
+                "Le Réviz’dex contient un historique des questions auxquelles tu as répondu en fonction des domaines commerciaux. Il te permet également de consulter tous les duels auxquels tu as participé.",
                 style: new TextStyle(fontSize: 16.0),
               ),
 
@@ -158,8 +158,8 @@ class AideState extends State<Aide> {
 
               new Text(
                 "Le but du jeu est d’être au sommet des deux classements. "
-                    "Scanne des codes et réponds correctement au plus de questions possible pour gagner des points de classement."
-                    "Recrute les meilleurs experts possible pour te créer une équipe au top et monter dans le classement d’équipe !",
+                    "Scanne des codes et réponds correctement au plus de questions possibles pour gagner des points de classement."
+                    "Recrute les meilleurs experts possibles pour te créer une équipe au top et monter dans le classement d’équipe !",
                 style: new TextStyle(fontSize: 16.0),
               ),
               new Padding(padding: EdgeInsets.all(8.0)),
@@ -171,7 +171,7 @@ class AideState extends State<Aide> {
               new Padding(padding: EdgeInsets.all(8.0)),
 
               new Text(
-                "Si tu as d’autres questions concernant le jeu : n’hésites pas à contacter les créateurs du jeu à fake-email@gmail.com.",
+                "Si tu as d’autres questions concernant le jeu : n’hésite pas à contacter les créateurs du jeu à fake-email@gmail.com.",
                 style: new TextStyle(fontSize: 16.0),
               ),
               new Padding(padding: EdgeInsets.all(8.0)),
